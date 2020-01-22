@@ -14,4 +14,10 @@ RGB = (119, 111, 112)
 RGB = (115, 114, 101)
 RGB = (108, 101, 104)
 RGB = (101, 46, 108)
-RGB = (0, 101, 120)```
+RGB = (0, 101, 120)
+```
+
+## Requirements
+This tool requires pwntools package that can be installed using:
+
+`pip install pwntools`
