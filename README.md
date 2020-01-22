@@ -1,7 +1,10 @@
 # BMP-Execute
 Create malicious BMP files for client breakous
 
-```./BMP_Execute.py -c powershell.exe -o test
+Can specify any commands you like eg "cmd.exe \K whoami
+
+```
+./BMP_Execute.py -c powershell.exe -o test
 Command is  powershell.exe
 Output file is  test
 Cmd in hex is:  b'706f7765727368656c6c2e657865'
